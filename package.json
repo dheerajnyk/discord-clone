@@ -11,6 +11,8 @@
   "author": "dheerajnyk",
   "license": "UNLICENSED",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
     "esm": "^3.2.25",
     "express": "^4.17.1",
     "mongodb": "^4.1.1",
